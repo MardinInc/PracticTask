@@ -1,0 +1,17 @@
+C:\Users\dinar\source\repos\Zdn\Zdn\bin\Debug\Zdn.exe.config
+C:\Users\dinar\source\repos\Zdn\Zdn\bin\Debug\Zdn.exe
+C:\Users\dinar\source\repos\Zdn\Zdn\bin\Debug\Zdn.pdb
+C:\Users\dinar\source\repos\Zdn\Zdn\obj\Debug\Zdn.csproj.AssemblyReference.cache
+C:\Users\dinar\source\repos\Zdn\Zdn\obj\Debug\Zdn.csproj.SuggestedBindingRedirects.cache
+C:\Users\dinar\source\repos\Zdn\Zdn\obj\Debug\MainWindow.g.cs
+C:\Users\dinar\source\repos\Zdn\Zdn\obj\Debug\App.g.cs
+C:\Users\dinar\source\repos\Zdn\Zdn\obj\Debug\Zdn_MarkupCompile.cache
+C:\Users\dinar\source\repos\Zdn\Zdn\obj\Debug\Zdn_MarkupCompile.lref
+C:\Users\dinar\source\repos\Zdn\Zdn\obj\Debug\App.baml
+C:\Users\dinar\source\repos\Zdn\Zdn\obj\Debug\MainWindow.baml
+C:\Users\dinar\source\repos\Zdn\Zdn\obj\Debug\Zdn.g.resources
+C:\Users\dinar\source\repos\Zdn\Zdn\obj\Debug\Zdn.Properties.Resources.resources
+C:\Users\dinar\source\repos\Zdn\Zdn\obj\Debug\Zdn.csproj.GenerateResource.cache
+C:\Users\dinar\source\repos\Zdn\Zdn\obj\Debug\Zdn.csproj.CoreCompileInputs.cache
+C:\Users\dinar\source\repos\Zdn\Zdn\obj\Debug\Zdn.exe
+C:\Users\dinar\source\repos\Zdn\Zdn\obj\Debug\Zdn.pdb

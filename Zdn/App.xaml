@@ -1,0 +1,17 @@
+﻿<Application x:Class="Zdn.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Zdn"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style TargetType="TextBox">
+            <Style.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"></Setter>
+                </Style>
+            </Style.Resources>
+            <Setter Property="BorderBrush" Value="White"></Setter>
+            <Setter Property="Background" Value="#343638"></Setter>
+        </Style>
+    </Application.Resources>
+</Application>
